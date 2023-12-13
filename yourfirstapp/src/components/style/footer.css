@@ -1,0 +1,14 @@
+.footer {
+  background-color: wheat;
+  border: 1px solid black;
+  color: black;
+
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+
+  text-align: center;
+}
+    
